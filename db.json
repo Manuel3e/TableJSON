@@ -1,0 +1,84 @@
+{
+  "posts": [
+   { 
+     "id": 1, 
+     "name": "Victor",
+     "genere": "male",
+     "rol": "student", 
+     "status": "active"
+    },
+    {
+     "id": 2,
+     "name": "Luis",
+     "genere": "male",
+     "rol": "student",
+     "status": "active"
+    },
+    {
+     "id": 3,
+     "name": "Alex Belleza",
+     "genere": "male",
+     "rol": "teacher",
+     "status": "active"
+    },
+    {
+     "id": 4,
+     "name": "Angel",
+     "genere": "male",
+     "rol": "student",
+     "status": "active"
+    },
+    {
+     "id": 5,
+     "name": "Piero",
+     "genere": "male",
+     "rol": "student",
+     "status": "active"
+    },
+    {
+     "id": 6,
+     "name": "Diego",
+     "genere": "male",
+     "rol": "student",
+     "status": "active"
+    },
+    {
+     "id": 7,
+     "name": "Cesar",
+     "genere": "male",
+     "rol": "student",
+     "status": "active"
+    },
+    {
+     "id": 8,
+     "name": "Jasiel",
+     "genere": "male",
+     "rol": "student",
+     "status": "active"
+    },
+    {
+     "id": 9,
+     "name": "Alejandro",
+     "genere": "male",
+     "rol": "student",
+     "status": "active"
+    },
+    {
+     "id": 10,
+     "name": "Sebastian",
+     "genere": "male",
+     "rol": "student",
+     "status": "active"
+    },
+    {
+     "id": 11,
+     "name": "Esteban",
+     "genere": "male",
+     "rol": "student",
+     "status": "active"
+    }
+   ],
+    "profile": {
+      "name": "Manuel3e"
+    }
+  }
