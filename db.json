@@ -76,7 +76,70 @@
      "genere": "male",
      "rol": "student",
      "status": "active"
-    }
+    },
+    {
+     "id": 12,
+     "name": "Mark",
+     "genere": "male",
+     "rol": "student",
+     "status": "inactive"
+    },
+    {
+     "id": 13,
+     "name": "Christina",
+     "genere": "female",
+     "rol": "student",
+     "status": "active"
+    },
+    {
+     "id": 14,
+      "name": "Laura",
+      "genere": "female",
+      "rol": "student",
+			"status": "inactive"	
+    },
+		{
+		 "id": 15,
+		 "name": "Ivan",
+		 "genere": "male",
+		 "rol": "student",
+		 "status": "active"
+		},
+		{
+		 "id": 16,
+		 "name": "Danna",
+		 "genere": "female",
+     "rol": "Student",
+		 "status": "inactive"
+		},
+		{
+		 "id": 17,
+		 "name": "Mateo",
+		 "genere": "male",
+		 "rol": "teacher",
+		 "status": "inactive"
+		},
+		{
+		 "id": 18,
+	   "name": "Maria",
+		 "genere": "female",
+		 "rol": "student",
+		 "status": "inactive"
+		},
+		{
+		 "id": 19,
+		 "name": "Soledad",
+		 "genere": "female",
+		 "rol": "student",
+		 "status": "inactive"
+		},
+		{
+		 "id": 20,
+		 "name": "Hector",
+		 "genere": "female",
+		 "rol": "student",
+		 "status": "active"
+		}
    ],
     "profile": {
       "name": "Manuel3e"
