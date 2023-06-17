@@ -2,14 +2,14 @@
   "posts": [
    { 
      "id": 1, 
-     "name": "Victor",
+     "name": "Victor Rupay",
      "genere": "male",
      "rol": "student", 
      "status": "active"
     },
     {
      "id": 2,
-     "name": "Luis",
+     "name": "Luis Pariona",
      "genere": "male",
      "rol": "student",
      "status": "active"
